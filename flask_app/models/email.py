@@ -1,4 +1,4 @@
-from winreg import QueryInfoKey
+
 from flask_app.config.mysqlconnection import MySQLConnection
 from flask import flash
 import re
